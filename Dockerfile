@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM arm64v8/python:3.6
 
 VOLUME /conf
 VOLUME /certs
